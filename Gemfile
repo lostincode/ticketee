@@ -19,9 +19,13 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
+
+  gem 'therubyracer'  # If using Ruby
+  gem 'less-rails-bootstrap'
 end
 
 gem 'jquery-rails'
+
 
 
 group :test, :development do
@@ -31,6 +35,7 @@ group :test do
   gem 'capybara', '1.1.2'
   gem 'factory_girl', '2.6.4'
   gem 'devise', '2.1.0.rc'
+  gem 'email_spec', '1.2.1'
 end
 
 # To use ActiveModel has_secure_password
