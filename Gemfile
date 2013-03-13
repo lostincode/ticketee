@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.6'
+gem 'rails', '~> 3.2.6'
 gem 'dynamic_form', '1.1.4'
+gem 'devise', '~> 2.1.0.rc'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -24,17 +25,22 @@ group :assets do
   gem 'less-rails-bootstrap'
 end
 
-gem 'jquery-rails'
+  gem 'jquery-rails'
 
 
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.11'
+
+  gem 'pry-rails'
+  gem 'pry-doc'
+  gem 'pry-debugger'
+  gem 'launchy'
+  gem "letter_opener"
 end
 group :test do
   gem 'capybara', '1.1.2'
   gem 'factory_girl', '2.6.4'
-  gem 'devise', '2.1.0.rc'
   gem 'email_spec', '1.2.1'
 end
 
