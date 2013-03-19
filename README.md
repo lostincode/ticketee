@@ -1,1 +1,3 @@
-Ticketee : Chapter 3
+Ticketee : Rails In Action
+==================================================
+class homework.
