@@ -69,6 +69,10 @@
         1,
         null
       ],
+      "/Users/billiam/Documents/ruby/ticketee/app/helpers/files_helper.rb": [
+        1,
+        null
+      ],
       "/Users/billiam/Documents/ruby/ticketee/app/helpers/projects_helper.rb": [
         1,
         null
@@ -184,6 +188,21 @@
         1,
         1,
         17,
+        null,
+        null,
+        null
+      ],
+      "/Users/billiam/Documents/ruby/ticketee/app/controllers/files_controller.rb": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        null,
+        null,
+        1,
+        1,
         null,
         null,
         null
@@ -379,11 +398,11 @@
         1,
         null,
         1,
-        78,
-        110,
+        80,
+        111,
         null,
         null,
-        40,
+        41,
         null,
         null,
         null,
@@ -395,9 +414,11 @@
         1,
         1,
         1,
+        null,
+        1,
         null
       ]
     },
-    "timestamp": 1363725465
+    "timestamp": 1363726903
   }
 }
