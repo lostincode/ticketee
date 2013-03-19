@@ -285,6 +285,8 @@
         null,
         1,
         5,
+        20,
+        null,
         null,
         1,
         5,
@@ -363,6 +365,7 @@
         1,
         1,
         1,
+        1,
         null
       ],
       "/Users/billiam/Documents/ruby/ticketee/app/controllers/users_controller.rb": [
@@ -387,8 +390,14 @@
         null,
         null,
         null
+      ],
+      "/Users/billiam/Documents/ruby/ticketee/app/models/asset.rb": [
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1363723446
+    "timestamp": 1363725465
   }
 }
