@@ -8,14 +8,14 @@ class Admin::PermissionsController < Admin::BaseController
 
   def update
     @user.permissions.clear
-    params[:permissions].each do |id, permissions|
+    params[:permissions].try(:each){ |id, permissions|
       project = Project.find(id)
       permissions.each do |permission, checked|
         Permission.create!(:user => @user,
                            :thing => project,
                            :action => permission)
       end
-    end
+    }
       flash[:notice] = "Permissions updated."
       redirect_to admin_user_permissions_path
   end
