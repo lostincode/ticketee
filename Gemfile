@@ -4,6 +4,7 @@ gem 'rails', '~> 3.2.6'
 gem 'dynamic_form', '1.1.4'
 gem 'devise', '~> 2.1.0.rc'
 gem 'cancan', '~> 1.6.7'
+gem 'paperclip', '~> 2.7.0'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
