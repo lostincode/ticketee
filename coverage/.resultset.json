@@ -26,15 +26,15 @@
         1,
         null,
         1,
-        81,
-        81,
+        82,
+        82,
         6,
         6,
         null,
         null,
         null,
         1,
-        393,
+        401,
         null,
         null,
         null
@@ -50,7 +50,7 @@
         null,
         null,
         1,
-        337,
+        344,
         null,
         null,
         1,
@@ -157,7 +157,7 @@
       "/Users/billiam/Documents/ruby/ticketee/app/controllers/admin/states_controller.rb": [
         1,
         1,
-        2,
+        4,
         null,
         1,
         1,
@@ -171,6 +171,13 @@
         0,
         0,
         null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null
       ],
@@ -180,6 +187,15 @@
         null,
         1,
         4,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null,
         null
       ],
@@ -320,7 +336,7 @@
         1,
         null,
         1,
-        84,
+        86,
         null,
         1,
         2,
@@ -384,7 +400,7 @@
         null,
         null,
         1,
-        176,
+        178,
         null,
         null,
         null
@@ -529,6 +545,6 @@
         null
       ]
     },
-    "timestamp": 1363821331
+    "timestamp": 1363822308
   }
 }
