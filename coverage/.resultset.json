@@ -34,7 +34,7 @@
         null,
         null,
         1,
-        445,
+        452,
         null,
         null,
         null
@@ -42,20 +42,20 @@
       "/Users/billiam/Documents/ruby/ticketee/app/helpers/application_helper.rb": [
         1,
         1,
-        38,
-        38,
-        38,
+        39,
+        39,
+        39,
         null,
         null,
         null,
         null,
         1,
-        380,
+        387,
         null,
         null,
         1,
         40,
-        128,
+        132,
         null,
         null
       ],
@@ -88,6 +88,10 @@
         null
       ],
       "/Users/billiam/Documents/ruby/ticketee/app/helpers/projects_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/billiam/Documents/ruby/ticketee/app/helpers/tags_helper.rb": [
         1,
         null
       ],
@@ -357,7 +361,7 @@
         1,
         null,
         1,
-        94,
+        96,
         null,
         1,
         2,
@@ -373,7 +377,7 @@
         null,
         null,
         1,
-        38,
+        39,
         null,
         1,
         2,
@@ -398,7 +402,7 @@
         1,
         null,
         1,
-        47,
+        48,
         null,
         null,
         4,
@@ -417,11 +421,11 @@
         1,
         null,
         1,
-        133,
+        137,
         null,
         null,
         1,
-        199,
+        203,
         null,
         null,
         null
@@ -434,6 +438,23 @@
         1,
         1,
         null,
+        null
+      ],
+      "/Users/billiam/Documents/ruby/ticketee/app/controllers/tags_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/billiam/Documents/ruby/ticketee/app/models/tag.rb": [
+        1,
+        1,
         null
       ],
       "/Users/billiam/Documents/ruby/ticketee/app/controllers/tickets_controller.rb": [
@@ -466,8 +487,8 @@
         null,
         null,
         1,
-        29,
-        29,
+        30,
+        30,
         null,
         null,
         1,
@@ -492,14 +513,14 @@
         1,
         null,
         1,
-        58,
+        59,
         null,
         1,
         1,
         null,
         null,
         1,
-        40,
+        41,
         null,
         null,
         1,
@@ -542,9 +563,9 @@
         null,
         1,
         1,
-        46,
+        47,
+        4,
         3,
-        2,
         null,
         null,
         null,
@@ -561,11 +582,11 @@
         1,
         null,
         1,
-        113,
-        186,
+        116,
+        192,
         null,
         null,
-        62,
+        67,
         null,
         null,
         null,
@@ -580,13 +601,8 @@
         null,
         1,
         null
-      ],
-      "/Users/billiam/Documents/ruby/ticketee/app/models/tag.rb": [
-        1,
-        1,
-        null
       ]
     },
-    "timestamp": 1364160972
+    "timestamp": 1364162305
   }
 }
